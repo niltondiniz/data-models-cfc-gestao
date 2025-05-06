@@ -17,13 +17,6 @@
   }
 }
 ```
-
-<style>
-img[alt="Gráfico de entradas e saídas consolidadas"] {
-  max-width: 400px;
-  height: auto;
-}
-</style>
 ---
 # Card: Novos Alunos
 | Visual do Gráfico|
@@ -45,12 +38,6 @@ img[alt="Gráfico de entradas e saídas consolidadas"] {
 }
 ```
 
-<style>
-img[alt="Novos Alunos card"] {
-  max-width: 400px;
-  height: auto;
-}
-</style>
 ---
 # Card: Leads
 | Visual do Gráfico|
@@ -72,12 +59,6 @@ img[alt="Novos Alunos card"] {
   }
 }
 ```
-<style>
-img[alt="Gráfico de Leads"] {
-  max-width: 400px;
-  height: auto;
-}
-</style>
 ---
 # Card: Aulas práticas
 | Visual do Gráfico |
@@ -101,12 +82,7 @@ img[alt="Gráfico de Leads"] {
   }
 }
 ```
-<style>
-img[alt="Gráfico de Aulas Práticas"] {
-  max-width: 400px;
-  height: auto;
-}
-</style>
+
 ---
 # Card: Exames
 | Visual do Gráfico |
@@ -130,9 +106,3 @@ img[alt="Gráfico de Aulas Práticas"] {
   }
 }
 ```
-<style>
-img[alt="Gráfico de Exames"] {
-  max-width: 400px;
-  height: auto;
-}
-</style>
